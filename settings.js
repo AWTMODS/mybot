@@ -22,26 +22,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.ownernomer = "917907635894" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ownernomer = "18187324057" //ur owner number2
+global.ownername = "Aadith 🦄" //ur owner name
+global.ytname = "YT: ARTWEBTECH" //ur yt chanel name
+global.socialm = "GitHub: AWTMODS" //ur github or insta name
+global.location = "India, Kerala, Calicut" //ur location
 
 //new
-global.botname = "Cheems Bot MD V9"
-global.ownernumber = '917907635894'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["917907635894@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtube.com/@DGXeon"
-global.wagc = "https://chat.whatsapp.com/Kjm8rnDFcpb04gQNSTbW2d"
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
+global.botname = "AWT WA BOT"
+global.ownernumber = '18187324057'
+global.ownername = 'Aadith 🦄'
+global.ownerNumber = ["18187324057@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@ARTWEBTECH"
+global.websitex = "https://youtube.com/@ARTWEBTECH"
+global.wagc = "https://telegram.me/ARTWEBTECHWA"
+global.themeemoji = '💀'
+global.wm = "AWT WA Bot Inc."
+global.botscript = 'https://telegram.me/ARTWEBTECHWA' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+917907635894"
-global.creator = "917907635894@s.whatsapp.net"
+global.author = "Aadith 🦄\n\nAWTMODS"
+global.creator = "18187324057@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
